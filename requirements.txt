@@ -1,0 +1,3 @@
+rasterio
+ipykernel
+earthengine-api
