@@ -1,3 +1,4 @@
 rasterio
+geopandas
 ipykernel
 earthengine-api
