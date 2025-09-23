@@ -1,4 +1,9 @@
+scipy
+joblib
+shapely
 rasterio
 geopandas
 ipykernel
+matplotlib
+scikit-learn
 earthengine-api
