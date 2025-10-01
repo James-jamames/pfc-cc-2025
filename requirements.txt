@@ -1,4 +1,3 @@
-gdal
 scipy
 joblib
 shapely
@@ -8,4 +7,3 @@ ipykernel
 matplotlib
 scikit-learn
 earthengine-api
-libgdal-jp2openjpeg
