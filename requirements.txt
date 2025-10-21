@@ -1,4 +1,6 @@
+lz4
 scipy
+jinja2
 joblib
 shapely
 rasterio
