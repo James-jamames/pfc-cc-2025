@@ -2,6 +2,8 @@ lz4
 scipy
 jinja2
 joblib
+pyarrow
+parquet
 shapely
 rasterio
 geopandas
