@@ -5,6 +5,7 @@ joblib
 pyarrow
 parquet
 shapely
+lightgbm
 rasterio
 geopandas
 ipykernel
