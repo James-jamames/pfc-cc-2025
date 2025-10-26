@@ -5,6 +5,7 @@ joblib
 pyarrow
 parquet
 shapely
+xgboost
 lightgbm
 rasterio
 geopandas
