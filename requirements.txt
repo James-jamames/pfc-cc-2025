@@ -1,4 +1,5 @@
 lz4
+tqdm
 scipy
 jinja2
 joblib

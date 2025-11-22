@@ -68,8 +68,8 @@ def batch_process(file_batch: list[str]):
                     sleep(2**attempt)
 
 
-input_dir = Path("../data/raw")
-output_dir = Path("../data/feature")
+input_dir = Path("../../data/raw")
+output_dir = Path("../../data/feature")
 
 output_dir.mkdir(exist_ok=True)
 (output_dir / 'bing').mkdir(exist_ok=True)
